@@ -1,0 +1,12 @@
+/* Centrera hela applikationen */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center; /* Centrerar horisontellt */
+    align-items: center;     /* Centrerar vertikalt */
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Ljus bakgrundsfärg för applikationen */
+  }
+ 
